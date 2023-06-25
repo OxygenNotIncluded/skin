@@ -1,0 +1,20 @@
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\mod.yaml
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\mod_info.yaml
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\ONIMod.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\ONIMod.pdb
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\0Harmony.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\Assembly-CSharp.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\UnityEngine.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Debug\UnityEngine.UI.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Debug\ONI Mod.csproj.CoreCompileInputs.cache
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Debug\ONI Mod.csproj.CopyComplete
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Debug\ONIMod.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Debug\ONIMod.pdb
+C:\Users\ICE\Documents\Klei\OxygenNotIncluded\mods\local\ONIMod\mod.yaml
+C:\Users\ICE\Documents\Klei\OxygenNotIncluded\mods\local\ONIMod\mod_info.yaml
+C:\Users\ICE\Documents\Klei\OxygenNotIncluded\mods\local\ONIMod\ONIMod.dll
+C:\Users\ICE\Documents\Klei\OxygenNotIncluded\mods\local\ONIMod\ONIMod.pdb

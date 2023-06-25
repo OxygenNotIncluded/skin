@@ -1,0 +1,17 @@
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\mod.yaml
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\mod_info.yaml
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\ONIMod.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\ONIMod.pdb
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\0Harmony.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\Assembly-CSharp.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\Unity.TextMeshPro.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\UnityEngine.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\bin\Release\UnityEngine.UI.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Release\ONI Mod.csproj.CoreCompileInputs.cache
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Release\ONI Mod.csproj.CopyComplete
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Release\ONIMod.dll
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Release\ONIMod.pdb
+C:\Users\ICE\Desktop\ox\ONI Hello World Mod\ONIMod\obj\Release\ONI Mod.csproj.AssemblyReference.cache
